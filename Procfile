@@ -1,0 +1,1 @@
+web: uvicorn service.main:app --workers 2
